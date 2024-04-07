@@ -1,0 +1,7 @@
+id=update_cacerts
+name=Cacerts
+version=14.0.0_r31-0
+versionCode=1
+author=xunmod
+description=Update system's cacerts
+updateJson=https://xunmod.github.io/magisk_cacerts/update.json
